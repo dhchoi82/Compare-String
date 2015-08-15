@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author dongh_000
+ * @author DH. Choi
  */
 public class StringCompare extends Application {
     
