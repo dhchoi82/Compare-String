@@ -11,8 +11,6 @@ import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.text.Text;
 import javafx.scene.control.TextField;
-import javafx.scene.input.KeyCode;
-import javafx.scene.input.KeyEvent;
 
 /**
  * FXML Controller class
@@ -44,6 +42,6 @@ public class FXMLController implements Initializable {
         else
             message = "두 문자열이 일치하지 않습니다.";
         compareResult.setText(message);
-    }
+   }
     
 }
